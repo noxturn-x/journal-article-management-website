@@ -137,34 +137,22 @@ TIMESTAMP
 NOTE
 
 4️⃣ Struktur Google Drive
-
-/Manajemen-Artikel
-
-   /SYSTEM
+   /Struktur Google Drive
    
-      MASTER_CONFIG
-      
-      DATABASE
-      
-   /REPOSITORY
-   
-      /IMM
-      
-         /ISSUES
-         
-            /IMM_VOL1_NO2_2026
-            
-               /IMM-123
-               
-                  IMM-123.docx
-                  
-                  IMM-123-REV1.docx
-                  
-                  IMM-123.pdf
-                  
-      /IMT
-      
-         /ISSUES
+      /Manajemen-Artikel
+         /SYSTEM
+            MASTER_CONFIG   
+            DATABASE
+         /REPOSITORY
+            /IMM   
+               /ISSUES
+                  /IMM_VOL1_NO2_2026
+                     /IMM-123
+                        IMM-123.docx
+                        IMM-123-REV1.docx
+                        IMM-123.pdf
+            /IMT
+               /ISSUES
 
 Struktur dipisahkan antara:
 File sistem (database)
